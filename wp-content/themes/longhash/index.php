@@ -4,17 +4,15 @@
     <div class="inner">
       <p class="ttl">OUR MISSION</p>
       <h1>
-        ブロックチェーンがもたらす分散型<br class="pc">経済圏の安全を保障します！
+        ブロックチェーン技術全般開発支援します。
       </h1>
       <p>
-        規制側と既存の金融機関からブロックチェーン技術がまだ不安定かつ違法な用途に使われやすいという認識が強い一方、<br class="pc">
-        ブロックチェーン技術を使ってブロックチェーンの透明性、<br class="pc">
-        追跡可能かつ改ざん不可な特徴を最大限に活かし安全な取引を可能にする技術をTOKEXは提供します。<br class="pc">
-        より安心な環境を作ることによって、ブロックチェーンによる分散型経済圏の普及を目指します！
+        ブロックチェーン最新技術を駆使し、世界の可能性を広げます。<br class="pc">
+        ブロックチェーン技術全般開発支援やコンサルティングします。<br class="pc">
+        eウォレットと企業の実業務を繋げるインターフェースを構築します。<br class="pc">
       </p>
       <div class="logo">
-        <!-- <img src="<?php echo get_template_directory_uri(); ?>/images/Tokex_logo.png" alt="Tokex"> -->
-        <!-- <p>IN BLOCKCHAIN WE TRUST</p> -->
+        <!-- <img src="<?php echo get_template_directory_uri(); ?>/images/bctech_logo_1.png" alt="BCTECH"> -->
       </div>
     </div>
   </section>

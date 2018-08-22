@@ -6,6 +6,12 @@
 # BEGIN WordPress
 <IfModule mod_rewrite.c>
 RewriteEngine On
+RewriteCond %{HTTP:X-Sakura-Forwarded-For} ^$
+RewriteRule ^(.*)$ https://bctech.jp/$1 [R=301,L]
+</IfModule>
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
 RewriteBase /
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
