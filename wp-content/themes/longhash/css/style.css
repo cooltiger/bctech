@@ -91,7 +91,7 @@ img {
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
-  background-color: #00B9E1;
+  background-color: #396799;
 }
 
 .hstyle02 {
@@ -132,7 +132,7 @@ img {
   width: 180px;
   height: 40px;
   line-height: 40px;
-  background: url(../images/ico_arrow_01.png) 92% center no-repeat #00B9E1;
+  background: url(../images/ico_arrow_01.png) 92% center no-repeat #396799;
   background-size: 7px;
   color: #fff;
   text-align: center;
@@ -221,7 +221,7 @@ img {
   justify-content: space-between;
 }
 #header .current a {
-  color: #00B9E1;
+  color: #396799;
 }
 #header .sns {
   float: right;
@@ -314,7 +314,7 @@ img {
   overflow: hidden;
 }
 #topNews .newsList .day {
-  color: #00B9E1;
+  color: #396799;
 }
 #topNews .newsList .ttl a {
   display: block;
@@ -350,7 +350,7 @@ img {
 }
 
 #media li a {
-  color: #00B9E1;
+  color: #396799;
   padding-left: 15px;
   position: relative;
 }
@@ -362,8 +362,8 @@ img {
   width: 6px;
   height: 6px;
   margin-top: -5px;
-  border-bottom: 2px solid #00B9E1;
-  border-right: 2px solid #00B9E1;
+  border-bottom: 2px solid #396799;
+  border-right: 2px solid #396799;
   transform: rotate(-45deg);
   content: '';
 }
@@ -437,14 +437,14 @@ img {
 }
 #company .officerWrap > section:nth-child(1),
 #company .officerWrap > section:nth-child(2),
+#company .officerWrap > section:nth-child(3),
+#company .officerWrap > section:nth-child(4) {
+  width: 475px;
+}
+#company .officerWrap > section:nth-child(5),
 #company .officerWrap > section:nth-child(6),
 #company .officerWrap > section:nth-child(7) {
   width: 475px;
-}
-#company .officerWrap > section:nth-child(3),
-#company .officerWrap > section:nth-child(4),
-#company .officerWrap > section:nth-child(5) {
-  width: 310px;
 }
 #company .officerWrap h3 {
   width: 100%;
@@ -512,7 +512,7 @@ img {
   display: inline-block;
   color: #fff;
   font-weight: normal;
-  background: #00B9E1;
+  background: #396799;
   font-size: 9px;
   line-height: 26px;
   height: 26px;
@@ -597,7 +597,7 @@ text-decoration: underline;
   height: auto;
 }
 .sub .day {
-  color: #00B9E1;
+  color: #396799;
   margin-bottom: 80px;
 }
 .sub .contents {
@@ -651,7 +651,7 @@ text-decoration: underline;
   -webkit-transform: translateX(-50%);
   -ms-transform: translateX(-50%);
   transform: translateX(-50%);
-  background-color: #00B9E1;
+  background-color: #396799;
 }
 
 /* 画像配置 左 */

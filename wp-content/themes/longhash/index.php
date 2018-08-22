@@ -131,7 +131,7 @@ endif;
         <table>
           <tr>
             <th>社名</th>
-            <td>株式会社 TOKEX</td>
+            <td>株式会社 BCTECH</td>
           </tr>
           <tr>
             <th>本社所在地</th>
@@ -139,11 +139,11 @@ endif;
           </tr>
           <tr>
             <th>代表者</th>
-            <td>代表取締役社長　Yanfeng Chen</td>
+            <td>代表取締役社長　丁　艶斌</td>
           </tr>
           <tr>
             <th>設立</th>
-            <td>2018年5月<div id="map"></div></td>
+            <td>2018年6月<div id="map"></div></td>
           </tr>
           <!--
           <tr>
@@ -153,7 +153,7 @@ endif;
           -->
           <tr>
             <th>業務内容</th>
-            <td>メディア事業 / ビッグデータ事業 / コンサルティング / デジタルデバイス販売</td>
+            <td>ブロックチェーン開発支援 / コンサルティング / デジタルデバイス販売 / デジタルウォレットソリューション</td>
           </tr>
         </table>
       </section>
@@ -246,16 +246,24 @@ endif;
         </p>
       </section> -->
       <section class="officer">
+        <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_00.png" alt="丁　艶斌" width="125">
+        <p class="name">丁　艶斌<span>BCTECH Japan 代表取締役社長</span></p>
+        <p>
+        株式会社ＴＨＳの創業者、クラウドサービス・Fintech・ＳＡＰ開発など色な分野の開発経験が豊富で、ブロックチェーン、スマートコントラクト関連技術の研究提案し、最新技術の導入が積極的に行なっている。ブロックチェーン、スマートコントラクトの専門知識があり、日本市場における利用するシーンを開拓する。
+        </p>
+      </section>
+
+      <section class="officer">
         <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_04.png" alt="Yanfeng Chen">
-        <p class="name">Yanfeng Chen<span>TOKEX Japan 代表取締役社長</span></p>
+        <p class="name">Yanfeng Chen<span>BCTECH Japan 取締役</span></p>
         <p>
           ハードウェアの仮想トークンウォーレットシステムNebulaの創業者、ICOAGE(かつて中国最大のICOプラットフォーム)とCybex(分散型取引所）の共同創業者。米国National Instrumentsの中国西部支社のCEO, Juxing Instrumentsの共同創業者でもある。ブロックチェーン技術に精通し、ハードウェアとソフトウェア開発両方に専門知識があり、特にネットワークセキュリティーを得意とする。上海交通大学　電子工学修士。
         </p>
       </section>
-     
+
       <section class="officer">
         <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_02.png" alt="Chris Dai">
-        <p class="name">Chris Dai<span>TOKEX Japan 取締役</span></p>
+        <p class="name">Chris Dai<span>BCTECH Japan 取締役</span></p>
         <p>
           中国と日本のクロスボーダー投資ファンドであるLeland Capitalの共同創設者兼CEO。中国と日本での活動を中心に、幅広いビジネスマネジメントと投資を過去に行ってきた。以前はCOO / CIO Yixing SCM(ロジスティクス・プロバイダー）、Accentureのコンサルタント、複数のベンチャー企業の共同設立者。中国のBitcoinとEthereumの早期の投資家の一人で、2013年から仮想通貨投資に携わる。2004年にスタンフォード大学でマネジメントと科学工学のB.A.を取得。
         </p>

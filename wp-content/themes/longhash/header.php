@@ -19,7 +19,7 @@
 <!-- <link rel="shortcut icon"  href="<?php echo get_template_directory_uri(); ?>/images/favicon.ico"> -->
 <link rel="stylesheet" type="text/css" href="<?php echo get_template_directory_uri(); ?>/css/MyFontsWebfontsKit.css">
 <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/reset.css">
-<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/style.css?v1">
+<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/style.css?v3">
 <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/jquery-ui.min.js"></script>
 <script src="<?php echo get_template_directory_uri(); ?>/js/jquery.simplesidebar.js"></script>
