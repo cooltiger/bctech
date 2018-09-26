@@ -4,17 +4,15 @@
     <div class="inner">
       <p class="ttl">OUR MISSION</p>
       <h1>
-        ブロックチェーンがもたらす分散型<br class="pc">経済圏の安全を保障します！
+        ブロックチェーン技術全般開発支援します。
       </h1>
       <p>
-        規制側と既存の金融機関からブロックチェーン技術がまだ不安定かつ違法な用途に使われやすいという認識が強い一方、<br class="pc">
-        ブロックチェーン技術を使ってブロックチェーンの透明性、<br class="pc">
-        追跡可能かつ改ざん不可な特徴を最大限に活かし安全な取引を可能にする技術をTOKEXは提供します。<br class="pc">
-        より安心な環境を作ることによって、ブロックチェーンによる分散型経済圏の普及を目指します！
+        ブロックチェーン最新技術を駆使し、世界の可能性を広げます。<br class="pc">
+        ブロックチェーン技術全般開発支援やコンサルティングします。<br class="pc">
+        eウォレットと企業の実業務を繋げるインターフェースを構築します。<br class="pc">
       </p>
       <div class="logo">
-        <!-- <img src="<?php echo get_template_directory_uri(); ?>/images/Tokex_logo.png" alt="Tokex"> -->
-        <!-- <p>IN BLOCKCHAIN WE TRUST</p> -->
+        <!-- <img src="<?php echo get_template_directory_uri(); ?>/images/bctech_logo_1.png" alt="BCTECH"> -->
       </div>
     </div>
   </section>
@@ -133,7 +131,7 @@ endif;
         <table>
           <tr>
             <th>社名</th>
-            <td>株式会社 TOKEX</td>
+            <td>株式会社 BCTECH</td>
           </tr>
           <tr>
             <th>本社所在地</th>
@@ -141,11 +139,11 @@ endif;
           </tr>
           <tr>
             <th>代表者</th>
-            <td>代表取締役社長　Yanfeng Chen</td>
+            <td>代表取締役社長　丁　艶斌</td>
           </tr>
           <tr>
             <th>設立</th>
-            <td>2018年5月<div id="map"></div></td>
+            <td>2018年6月<div id="map"></div></td>
           </tr>
           <!--
           <tr>
@@ -154,8 +152,12 @@ endif;
           </tr>
           -->
           <tr>
+            <th>取引銀行</th>
+            <td>三菱ＵＦＪ銀行<br>みずほ銀行</td>
+          </tr>
+          <tr>
             <th>業務内容</th>
-            <td>メディア事業 / ビッグデータ事業 / コンサルティング / デジタルデバイス販売</td>
+            <td>ブロックチェーン開発支援 / コンサルティング / デジタルデバイス販売 / デジタルウォレットソリューション</td>
           </tr>
         </table>
       </section>
@@ -248,18 +250,26 @@ endif;
         </p>
       </section> -->
       <section class="officer">
+        <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_00.png" alt="丁　艶斌" width="125">
+        <p class="name">丁　艶斌<span>BCTECH Japan 代表取締役社長</span></p>
+        <p>
+        株式会社ＴＨＳの創業者、クラウドサービス・Fintech・ＳＡＰ開発など色な分野の開発経験が豊富で、ブロックチェーン、スマートコントラクト関連技術の研究し、最新技術の導入が積極的に行なっている。ブロックチェーン、スマートコントラクトの専門知識があり、日本市場における利用するシーンを開拓する。
+        </p>
+      </section>
+
+      <section class="officer">
         <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_04.png" alt="Yanfeng Chen">
-        <p class="name">Yanfeng Chen<span>TOKEX Japan 代表取締役社長</span></p>
+        <p class="name">Yanfeng Chen<span>BCTECH Japan 取締役</span></p>
         <p>
           ハードウェアの仮想トークンウォーレットシステムNebulaの創業者、ICOAGE(かつて中国最大のICOプラットフォーム)とCybex(分散型取引所）の共同創業者。米国National Instrumentsの中国西部支社のCEO, Juxing Instrumentsの共同創業者でもある。ブロックチェーン技術に精通し、ハードウェアとソフトウェア開発両方に専門知識があり、特にネットワークセキュリティーを得意とする。上海交通大学　電子工学修士。
         </p>
       </section>
-     
+
       <section class="officer">
         <img src="<?php echo get_template_directory_uri(); ?>/images/pic_member_02.png" alt="Chris Dai">
-        <p class="name">Chris Dai<span>TOKEX Japan 取締役</span></p>
+        <p class="name">Chris Dai<span>BCTECH Japan 取締役</span></p>
         <p>
-          中国と日本のクロスボーダー投資ファンドであるLeland Capitalの共同創設者兼CEO。中国と日本での活動を中心に、幅広いビジネスマネジメントと投資を過去に行ってきた。以前はCOO / CIO Yixing SCM(ロジスティクス・プロバイダー）、Accentureのコンサルタント、複数のベンチャー企業の共同設立者。中国のBitcoinとEthereumの早期の投資家の一人で、2013年から仮想通貨投資に携わる。2004年にスタンフォード大学でマネジメントと科学工学のB.A.を取得。
+          中国と日本のクロスボーダー投資ファンドであるLeland Capitalの共同創設者兼CEO。中国と日本での活動を中心に、幅広いビジネスマネジメントと投資を過去に行ってきた。以前はCOO / CIO Yixing SCM(ロジスティクス・プロバイダー）、Accentureのコンサルタント、複数のベンチャー企業の共同設立者。中国のBitcoinとEthereumの早期の投資家の一人で、2013年から仮想通貨投資に携わる。2004年にスタンフォード大学でマネジメント科学と工学のB.S.を取得。
         </p>
       </section>
       <!-- <section class="officer">
